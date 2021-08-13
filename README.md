@@ -5,7 +5,7 @@ To see the bug:
 ```sh
 npm install
 
-# Running the project with Node works fine
+# Running the source code directly works
 npm start
 
 # Running the project after building with ncc does not work
